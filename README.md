@@ -12,4 +12,4 @@ Welcome to me porfolio. I am a cloud security enthusiast building deep skills in
 ## Projects
 | Project | Summary | Tools/Topics covered|
 |:--- | :--- |:---|
-|**Project 1**: _Azure Compute and Identity Management_| This project involves deploying a virtual machine, securing it using RBAC, applying Azure Policies for resource governance, encrypting sensitive data, and monitoring costs. It teaches foundational concepts for managing Azure identities, governance, and compute resources.| VMs, RBAC, Azure AD, Policies, Encryption, Cost Management|
+|**Project 1**: [_Azure Compute and Identity Management_](https://github.com/niikwade/az-compute-and-IAM)| This project involves deploying a virtual machine, securing it using RBAC, applying Azure Policies for resource governance, encrypting sensitive data, and monitoring costs. It teaches foundational concepts for managing Azure identities, governance, and compute resources.| VMs, RBAC, Azure AD, Policies, Encryption, Cost Management|
