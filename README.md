@@ -1,6 +1,6 @@
 # Michael Nii Nai-Kwade's Azure administration and security engineering projects
 
-Welcome to me porfolio. I am a cloud security enthusiast building deep skills in Azure administration, and security engineering. This portfolio is a growing set of projects, mainly to demonstrate skills and knowledge in Azure cloud technologies.
+Welcome to me porfolio. I am a cloud security professional building deep skills in Azure administration, and security engineering. This portfolio is a growing set of projects, mainly to demonstrate skills and knowledge in Azure cloud technologies.
 
 ## Connect with me 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/niikwade/)
